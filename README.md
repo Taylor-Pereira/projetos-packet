@@ -71,8 +71,4 @@ infra-tracer/
 ---
 
 ## 📜 Licença
-
-Este projeto está licenciado sob a licença MIT.  
-Sinta-se livre para utilizar, estudar e modificar os arquivos para fins educacionais e profissionais.
-
----
+https://github.com/Taylor-Pereira/projetos-packet?tab=MIT-1-ov-file
